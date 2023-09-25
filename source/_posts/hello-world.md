@@ -1,41 +1,15 @@
 ---
 title: Hello World
-date: 2013/7/13 20:46:25
+date: 2023/9/24 09:46:25
 tags: 
-- Test
+- Blog
+- Life
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+To Be or Not To Be, That's A Question.
 
-### Create a new post
+一般来说，开始总是hello，World。仿佛一种习惯，一种仪式，一种模因。我也不便于免俗，就这样吧。
 
-``` bash
-$ hexo new "My New Post"
-```
+在微软的一年工作经历告诉我，写作对于学习、回顾以及反思都是一件极有价值的事。于是便再一次决定开始写博客。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+这一次，不为别人，就为自己。
