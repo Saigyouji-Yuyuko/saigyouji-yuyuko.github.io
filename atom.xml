@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Saigyouji Yuyuko&#39;s Blog</title>
+  
+  
+  <link href="http://saigyouji-yuyuko.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://saigyouji-yuyuko.github.io/"/>
+  <updated>2023-09-25T19:59:41.403Z</updated>
+  <id>http://saigyouji-yuyuko.github.io/</id>
+  
+  <author>
+    <name>Saigyouji Yuyuko</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://saigyouji-yuyuko.github.io/2023/09/24/hello-world/"/>
+    <id>http://saigyouji-yuyuko.github.io/2023/09/24/hello-world/</id>
+    <published>2023-09-24T09:46:25.000Z</published>
+    <updated>2023-09-25T19:59:41.403Z</updated>
+    
+    <content type="html"><![CDATA[<p>To Be or Not To Be, That’s A Question.</p><p>一般来说，开始总是hello，World。仿佛一种习惯，一种仪式，一种模因。我也不便于免俗，就这样吧。</p><p>在微软的一年工作经历告诉我，写作对于学习、回顾以及反思都是一件极有价值的事。于是便再一次决定开始写博客。</p><p>这一次，不为别人，就为自己。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;To Be or Not To Be, That’s A Question.&lt;/p&gt;
+&lt;p&gt;一般来说，开始总是hello，World。仿佛一种习惯，一种仪式，一种模因。我也不便于免俗，就这样吧。&lt;/p&gt;
+&lt;p&gt;在微软的一年工作经历告诉我，写作对于学习、回顾以及反思都是一件极</summary>
+      
+    
+    
+    
+    
+    <category term="Blog" scheme="http://saigyouji-yuyuko.github.io/tags/Blog/"/>
+    
+    <category term="Life" scheme="http://saigyouji-yuyuko.github.io/tags/Life/"/>
+    
+  </entry>
+  
+</feed>
